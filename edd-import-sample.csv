@@ -1,0 +1,6 @@
+author_id,date_created,description,product_name,excerpt,status,post_name,price,download_files,download_limit,hide_purchase_link,image_files,categories, tags
+1,2012-11-01 01:01:01,<p>This is the description</p>,Test Product 1,<p>This is the excerpt</p>,publish,test-product-1,15,"back.png|front.png|error.zip",1,0,"check1.png|check2.png|error.png","themes|software","portfolio|agency|branding"
+1,2012-11-02 02:02:02,<p>This is the description</p>,Test Product 2,<p>This is the excerpt</p>,publish,test-product-2,25,test2.zip,2,0,"check2.png|check3.png","themes|software","portfolio|agency|branding"
+1,2012-11-03 03:03:03,<p>This is the description</p>,Test Product 3,<p>This is the excerpt</p>,draft,test-product-3,35.01,test3.zip,3,0,check3.png,"themes|software","portfolio|agency|branding"
+1,2012-11-04 04:04:04,<p>This is the description</p>,Test Product 4,<p>This is the excerpt</p>,draft,test-product-4,45.1,test4.zip,4,1,check4.png,"themes|software","portfolio|agency|branding"
+1,2012-11-05 05:05:05,<p>This is the description</p>,Test Product 5,<p>This is the excerpt</p>,pending,test-product-5,55.11,test5.zip,5,1,check5.png,"themes|software","portfolio|agency|branding"
