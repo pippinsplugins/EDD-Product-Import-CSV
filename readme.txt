@@ -1,4 +1,4 @@
-=== Easy Digital Downloads ===
+=== Easy Digital Downloads - CSV Product Import ===
 Author URI: http://pippinsplugins.com
 Plugin URI: http://easydigitaldownloads.com/extension/product-import-csv
 Contributors: mordauk, Daniel Espinoza
